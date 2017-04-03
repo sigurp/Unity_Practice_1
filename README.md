@@ -1,2 +1,2 @@
-# Unity_Practice_1
-A simple game made in unity for practice.
+# BunnyRunTut
+practice game built with unity.
